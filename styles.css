@@ -6,5 +6,14 @@
 }
 li{
     font-size: 20px;
-    text-align: center;
+}
+body{
+    background-color: orange;
+}
+p,ol,ul{
+    background-color: rgb(255, 115, 0);
+}
+div{
+    display: flex;
+    justify-content: center;
 }
