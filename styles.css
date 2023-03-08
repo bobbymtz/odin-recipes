@@ -1,19 +1,28 @@
-*{
-    font-family: Arial, Helvetica, sans-serif;
+* {
+  font-family: 'Courier New', Courier, monospace
 }
-    h1{
-    text-align: center;
+h1 {
+  text-align: center;
 }
-li{
-    font-size: 20px;
+li {
+  font-size: 20px;
 }
-body{
-    background-color: orange;
+body {
+  background-color: rgb(255, 123, 0);
 }
-p,ol,ul{
-    background-color: rgb(255, 115, 0);
+p,
+ol,
+ul {
+  background-color: rgb(255, 145, 0);
 }
-div{
-    display: flex;
-    justify-content: center;
+div {
+  display: flex;
+  justify-content: center;
+}
+ul.home {
+  list-style: none;
+  text-align: center;
+}
+a{
+    color: rgb(255, 255, 255);
 }
